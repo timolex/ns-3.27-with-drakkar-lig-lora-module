@@ -1,0 +1,2 @@
+PASS: Test Suite "lora-node" (0.040)
+PASS: Test Suite "LORA" (0.040)

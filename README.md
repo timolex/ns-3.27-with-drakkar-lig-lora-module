@@ -1,0 +1,1 @@
+This repository consists of the source code of ns-3 (https://www.nsnam.org/ns-3-27) which has been patched with drakkar-lig's LoRaWAN module for ns-3.27 (https://github.com/drakkar-lig/lora-ns3-module).
